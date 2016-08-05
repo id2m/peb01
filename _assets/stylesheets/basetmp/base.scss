@@ -1,0 +1,235 @@
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+// h1 small { font-weight: 400; font-size: 40%; color: #999; }
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.avatar {
+  border-radius: 50%;
+  max-width: 50px;
+  vertical-align: -9px;
+  margin-left: 12px;
+}
+
+.post-photo {
+  height: 24em;
+  margin-top: 0.5em;
+  margin-bottom: 1.9em;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0px 4px 8px #999;
+  z-index: 2;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: 1em;
+}
+
+
+
+/**
+ * Clearfix
+ */
+// %clearfix {
+
+//     &:after {
+//         content: "";
+//         display: table;
+//         clear: both;
+//     }
+// }
+
+
+// /**
+//  * Bouton
+//  * From http://designmodo.github.io/Flat-UI/
+//  */
+// .btn {
+//   border: none;
+//   font-size: 15px;
+//   font-weight: normal;
+//   line-height: 1.4;
+//   border-radius: 4px;
+//   padding: 10px 15px;
+//   -webkit-font-smoothing: subpixel-antialiased;
+//   -webkit-transition: 0.25s linear;
+//   transition: 0.25s linear;
+//   background-color: darken($nav-active-color, 15%);//#255b96;
+//   color: #ffffff !important;
+//   text-decoration: none;
+// }
+// .btn:hover,
+// .btn:focus {
+//   color: #ffffff;
+//   background-color: $nav-active-color;//#3073b3;
+//   text-decoration: none;
+//   cursor: pointer;
+// }
+// .btn:active,
+// .btn.active {
+//   outline: none;
+//   -webkit-box-shadow: none;
+//   box-shadow: none;
+// }
+// .btn-lg {
+//   padding: 10px 19px;
+//   font-size: 17px;
+//   line-height: 1.471;
+//   border-radius: 6px;
+// }
+
+// .form-control {
+//   -moz-box-sizing: padding-box;
+//   box-sizing: padding-box;
+// }
+
+/**
+ * Main presentation home
+ *
+ */
+.book-me {
+  float: right;
+  margin-top: -3px;
+}
+
+.hello {
+  font-size: 2em;
+  @extend %vertical-rhythm;
+}
+
+@include breakpoint($break-sm-max) {
+  .book-me {
+    float: none;
+    text-align: center;
+    margin: 0 0 1em 0;
+  }
+  // .about-me h1 {
+  //   text-align: center;
+  // }
+  .hello {
+    display: none;
+  }
+}
+
+.headline-site-title {
+  display: inline-block;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin:0;
+  // color: darken($nav-active-color, 15%);
+  // text-decoration: none;
+
+  // &:hover {
+  //     color: $nav-active-color;
+
+  // }
+}
+
+
+
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: 1em;
+    color: $gray;
+}
+
+.post-link {
+    display: block;
+    font-size: 1.0em;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    // font-size: 42px;
+    // letter-spacing: -1px;
+    line-height: 1;
+
+    // @include breakpoint($break-lg-max) {
+    //     font-size: 36px;
+    // }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    // h2 {
+    //     font-size: 32px;
+
+    //     @include breakpoint($break-lg-max) {
+    //         font-size: 28px;
+    //     }
+    // }
+
+    // h3 {
+    //     font-size: 26px;
+
+    //     @include breakpoint($break-lg-max) {
+    //         font-size: 22px;
+    //     }
+    // }
+
+    // h4 {
+    //     font-size: 20px;
+
+    //     @include breakpoint($break-lg-max) {
+    //         font-size: 18px;
+    //     }
+    // }
+}
+
+// .invisible {
+//   display:none;
+// }
+
+
