@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paysage et Biodiversité</title>
-    <description>PEB, Paysage et Biodiversité, est une association pour la préservation et l&#39;amélioration du cadre de vie et de la biodiversité. Nous sommes situés dans l&#39;Ouest Vosgien.</description>
+    <description>PEB, Paysage et Biodiversité, est une association pour la préservation et l'amélioration du cadre de vie et de la biodiversité. Nous sommes situés dans l'Ouest Vosgien.</description>
     <link>https://id2m.github.io/peb01/</link>
     <atom:link href="https://id2m.github.io/peb01/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Aug 2016 22:56:20 +0200</pubDate>
-    <lastBuildDate>Fri, 05 Aug 2016 22:56:20 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Sat, 06 Aug 2016 03:51:12 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Aug 2016 03:51:12 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Compte-rendu AG 2014</title>
@@ -72,7 +72,7 @@ esse signum, illi habebam lassaque potentia!&lt;/p&gt;
 &lt;img src=&quot;/peb01/images/flyer01-recto-min.jpg&quot; title=&quot;lien vers Googledrive&quot; alt=&quot;recto flyer PEB 2015&quot; /&gt;   &lt;br /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;!-- &lt;div class=&quot;post-photo&quot; style=&quot;background-image: url(&#39;/peb01/images/flyer01-recto-min.jpg&#39;)&quot;&gt;
+&lt;!-- &lt;div class=&quot;post-photo&quot; style=&quot;background-image: url('/peb01/images/flyer01-recto-min.jpg')&quot;&gt;
 &lt;/div&gt; --&gt;
 
 &lt;hr /&gt;
@@ -273,7 +273,7 @@ populum.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Réflechir avant d&#39;abattre les arbres</title>
+        <title>Réflechir avant d'abattre les arbres</title>
         <description>&lt;h3 id=&quot;les-rapports-dexperts-ont-dmontr-que-la-mortalit-routire-nest-pas-lie--la-prsence-darbres-ou-non-au-bord-de-route--des-milliers-darbres-abattusan-en-france-pour-rien&quot;&gt;Les rapports d’experts ont démontré que la mortalité routière n’est pas liée à la présence d’arbres ou non au bord de route : des milliers d’arbres abattus/an en France pour rien&lt;/h3&gt;
 
 &lt;!--fin-excerpt--&gt;
