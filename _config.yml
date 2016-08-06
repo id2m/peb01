@@ -12,7 +12,7 @@ email: peb@domain.com
 description: "PEB, Paysage et Biodiversité, est une association pour la préservation et
   l'amélioration du cadre de vie et de la biodiversité. Nous sommes situés dans l'Ouest Vosgien."
 baseurl: "/peb01" # the subpath of your site, e.g. /blog
-url: "http://id2m.github.io" # the base hostname & protocol for your site
+url: "https://id2m.github.io" # the base hostname & protocol for your site
 twitter_username: peb
 github_username:  peb
 lang: fr
