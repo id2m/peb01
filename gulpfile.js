@@ -20,7 +20,7 @@ function task(filename) {
 }
 
 
-/*add test*/
+/*add test 2*/
 gulp.task('jsmin', function() {
   return gulp.src('gulp/JSinput/**/*.js')
     .pipe($.uglify())
