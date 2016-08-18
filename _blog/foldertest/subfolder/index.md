@@ -1,4 +1,4 @@
 ---
 title: hey
 ---
-new post
+new post add 2d
