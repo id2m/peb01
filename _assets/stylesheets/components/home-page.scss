@@ -1,0 +1,141 @@
+.welcome {
+
+  .part-welcome-text {
+    width: 100%;
+    padding: $spacing-v/2 $spacing-h; //1em;
+    background: $accent-color;
+    border-radius: $border-radius-site;
+    box-shadow: 0 0 $border-shadow rgba($gray-shadow, 0.5);
+    color: $primary-color-text;
+  }
+  .part-welcome-text::after {
+    content: '\00a0'; /* &nbsp; */
+    display: block;
+    margin-top: $spacing-v/2;
+    height: 0px;
+    visibility: hidden;
+  }
+
+  .part-welcome-img {
+    width: 100%;
+    padding: 0;
+    // background: $accent-color; //hsla(31, 15%, 50%, 0.1);
+    // box-shadow: 0 0 $border-shadow rgba($gray-shadow, 0.5);
+    // border-radius: $border-radius-site;
+  }
+
+
+  .part-welcome-text {
+
+    .header-welcome {
+      font-size: 1.7em;
+      font-weight: 600;
+      margin-top: $spacing-v/2;
+    }
+
+    .main-welcome {
+      margin-right: 0;
+
+      .headline-site-title {
+        display: inline-block;
+        font-size: 1.4em;
+        font-weight: 600;
+        line-height: 1.4em;
+        margin:0;
+      }
+
+      span {
+        font-size: 1.3em;
+        font-weight: 400;
+        line-height: 1.4em;
+      }
+    }
+
+    @include breakpoint($break-sm-max) {
+      .header-welcome {
+        display: none;
+      }
+    }
+
+    @include breakpoint($break-md) {
+      .main-welcome {
+        margin-right: 3em; //Extra margin for lisibility
+      }
+
+    }
+  }
+  //end details .part-welcome-text
+
+  .welcome-home-image {
+    width: 100%;
+    box-shadow: 0 0 $border-shadow rgba($gray-shadow, 0.5);
+  }
+
+
+}
+
+
+
+.last-adds-blog-unresize {
+  border-radius: $border-radius-site;
+  background: $warning-color;
+  box-shadow: 0 0 $border-shadow rgba($gray-shadow, 0.5);
+
+  .heading {
+    margin-left: $spacing-h/2; //0.5em;
+    padding-top: $spacing-v/2; //1em;
+    font-size: 1.7em;
+    font-weight: 600;
+    color : $white;
+  }
+
+  .last-add-unresize {
+    width: 100%;
+    padding: $spacing-v/2 $spacing-h;
+    background: $white;
+    border-radius: $border-radius-site;
+    color: $primary-text-color;
+  }
+  .last-add-unresize::after {
+    content: '\00a0'; /* &nbsp; */
+    display: block;
+    margin-top: $spacing-v/2;
+    height: 0px;
+    visibility: hidden;
+  }
+
+  @include breakpoint($break-md-max) {
+    background: none;
+    box-shadow: none;
+
+    .heading {color : $warning-color;}
+    .last-add-unresize {background: $warning-color;}
+  }
+
+
+
+}
+
+.last-adds-blog-resizing {
+
+  .heading {
+    margin-left: $spacing-h/2; //0.5em
+    padding-top: $spacing-v/2; //1em
+    font-size: 1.7em;
+    font-weight: 600;
+    color : $info-color;
+  }
+
+  .last-add-resizing {
+    width: 100%;
+    padding: $spacing-v/2 $spacing-h; //1em;
+    background: $info-color;
+    border-radius: $border-radius-site;
+    box-shadow: 0 0 $border-shadow rgba($gray-shadow, 0.5);
+    color: $primary-text-color;
+  }
+
+}
+
+
+
