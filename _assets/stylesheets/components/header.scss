@@ -1,0 +1,44 @@
+.Header {
+  background-image: url(asset_path("gradient-header.png"));
+  background-repeat:repeat-x;
+  background-size: 100% 100%;
+  // background-size: 100% 100%;
+  // background:url(asset_path("v-white2trans.png")) repeat-x left top ,url(asset_path("v-trans2white.png")) repeat-x left bottom $primary-color;
+  // pb avec white2trans: au chargement, affichage fond primary-color, livre pro html5css3
+}
+
+
+
+.header-logo {
+  position: relative; display: block; top:5px;
+  margin-bottom: 1em;
+  min-width: 25.6em;//320px;
+  max-width: 60em;//750px;
+  width: 100%;
+
+  // @include breakpoint($break-lg) {margin-bottom: 0;}
+
+  canvas { display: block; width:100%;visibility: hidden;}
+
+  //gestion svg
+  .svg--responsive {
+    position: absolute; top: 0; left: 0;
+    height: 100%; width: 100%;
+  }
+  .text-svg-logo {
+    font-size: 0.7em;
+    // font-weight: bold;
+    font-family:  $monospace; //$sans-serif-narrow; //$base-font-family;
+    fill: $primary-color-dark;
+  }
+  #mask-first-line-text-svg {
+    display: none;
+    @include breakpoint($break-md) {display: block;}
+  }
+  #mask-second-line-text-svg {
+    display: block;
+    @include breakpoint($break-md) {display: none;}
+  }
+}
+
+
