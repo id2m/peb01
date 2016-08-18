@@ -8,4 +8,4 @@ sqsq
 
 05:44
 
-add dep firefox ,é ss  
+add dep firefox ,é ss éé
