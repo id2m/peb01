@@ -5,10 +5,8 @@ date:   2015-06-16 00:00:00
 type: information
 order: 3
 description: ""
-
 ---
-
-### Le rôle sanitaire indispensable du renard et des nuisibles est prouvé scientifiquement : 800 000 renards tués/an en France pour rien.
+### Le rôle sanitaire indispensable du renard et des nuisibles est prouvé scientifiquement : 800 000 renards tués/an en France pour rien.i
 
 <!--fin-excerpt-->
 
