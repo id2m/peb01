@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  {% include head.html %}
+
+  <body class="Site-body container-body">
+
+    <header class="Site-header">
+        {% include header-home.html %}
+    </header>
+
+    <main class="Site-main " id="main" role="main">
+
+      <aside class="Site-left-aside u-textCenter ">
+
+        <div class="sticky-aside-left">
+          <p class="exp-2016-04-30 Message Warning ">Site en construction</p>
+          <ul id="aside-events"></ul>
+        </div>
+      </aside>
+
+      <div class="Site-content-right-aside">
+
+        <article class="Site-content">
+            {{ content }}
+        </article>
+
+        <aside class="Site-right-aside u-textCenter ">
+          <div class="sticky-aside-right">
+            <p class="exp-2016-04-30 Message Info">Réunion mensuelle, le dernier Vendredi du mois, au siège de l'association.</p>
+          </div>
+        </aside>
+
+      </div> <!-- fin Site-content-right-aside -->
+
+    </main>
+
+
+    <footer class="Site-footer">
+      <div class="Footer">
+        {% include footer.html %}
+      </div>
+    </footer>
+    {% include scripts.html %}
+
+  </body>
+</html>
