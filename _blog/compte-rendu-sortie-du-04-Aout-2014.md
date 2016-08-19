@@ -4,13 +4,12 @@ date:   2014-08-08 21:27:27
 type: divers
 order: 1
 ---
-
 # Excussum tantus
 
 ## Multo soror nympha gaudia
 
 Lorem markdownum *vicit Ionium*: simul et arce petitos Minyeidas poscit. Dedit
-ceciderunt: palladias spectare ecquis circumspectis gemitus credere, at amor?
+ceciderunt: pallvadias spectare ecquis circumspectis gemitus credere, at amor?
 Utere ait, sed **carens adnuit**, in Titania macies.
 
 
