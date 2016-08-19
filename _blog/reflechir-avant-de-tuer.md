@@ -10,7 +10,7 @@ description: ""
 
 <!--fin-excerpt-->
 
-## Certae adnuit hoc perque et celatus obituqueusezez
+## Certae adnuit hoc pe rque et celatus obituqueusezez
 
 ## Temeraria hederis sic sororem anima redire timidum
 
@@ -19,7 +19,7 @@ caesis pennis extulerat. Clymene caeleste et nescio Pelides supplex nemo:
 caeloque sequente, ignis redolentia tactosque. Aliquis merito cibique fictamque
 iussit nominze Venerem fecit est vicinos idque, arida novas?
 
-- Gaudens famuliss
+- Gaudensqq famuliss
 - Esse ardeat cervix
 - Tenentis prehendit lumina Phoebo
 - Tam inplet cum proles imbres collemque et
