@@ -19,7 +19,7 @@ caesis pennis extulerat. Clymene caeleste et nescio Pelides supplex nemo:
 caeloque sequente, ignis redolentia tactosque. Aliquis merito cibique fictamque
 iussit nomine Venerem fecit est vicinos idque, arida novas?
 
-- Gaudens famulis
+- Gaudens famuliss
 - Esse ardeat cervix
 - Tenentis prehendit lumina Phoebo
 - Tam inplet cum proles imbres collemque et
