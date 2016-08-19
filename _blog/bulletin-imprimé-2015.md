@@ -25,3 +25,5 @@ order: 2
 <a href="https://drive.google.com/uc?export=view&id=0B8fHSjalmbNEeG9PbUN1SXhjakE" target="_blank">
 <img src="{{site.baseurl}}/images/flyer01-verso-min.jpg" style="width: 500px; max-width: 100%; height: auto;" title="lien vers Googledrive" alt="verso flyer PEB 2015" />
 </a>
+
+blabla
