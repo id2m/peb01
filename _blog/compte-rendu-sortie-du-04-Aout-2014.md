@@ -17,7 +17,7 @@ Utere ait, sed **carens adnuit**, in Titania macies.
 
 ## Erat antris ore moenia nullius auguror venis
 
-Dant auras tristis fudit haustum; tam plausis, erat micat; maledicere didicit
+Dant auras tristis fudidft haustum; tam plausis, erat micat; maledicere didicit
 amoris iam formaeque reddita. Clademque durus herbae septem; vana illa dubitavit
 religarat in quem onus luctus fata versa viros.
 
