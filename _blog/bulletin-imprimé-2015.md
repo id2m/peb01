@@ -5,7 +5,7 @@ type: information
 order: 1
 description: ""
 ---
-### Les rapports d'experts ont démontré que la mortalité routière n'est pas liée à la présence d'arbres ou non au boqrd de route : des milliers d'arbres abattus/an en France pour rien
+### Les rapports d'experts ont démontré que la mortalité routière n'est pas liée à la présence d'arbres ou non au boqrd de route : des milliers d'arbres abattus/an en France pour rienq
 
 <!--fin-excerpt-->
 
