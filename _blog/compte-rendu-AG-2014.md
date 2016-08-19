@@ -1,14 +1,15 @@
 ---
-title:  "Compte-rendu sortie du 04 Août 2014"
-date:   2014-08-08 21:27:27
-type: divers
+title:  Réflechir avant d'abattre les arbres
+date:   2015-11-19 00:00:00
+type: information
 order: 1
+description: ""
 ---
 # Excussum tantus
 
 ## Multo soror nympha gaudia
 
-Lorem markdownum *vicit Ionium*: simul et arce petitos Minyeidas poscit. Dedit
+Lorem markdownum *vicit Ionium*: simul et arczze petitos Minyeidas poscit. Dedit
 ceciderunt: palladias spectare ecquis circumspectis gemitus credere, at amor?
 Utere ait, sed **carens adnuit**, in Titania macies.
 
