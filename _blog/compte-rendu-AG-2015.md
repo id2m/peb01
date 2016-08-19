@@ -5,7 +5,6 @@ type: ag
 description: ""
 order: 1
 ---
-
 ### compte-rendu AG 2015 Peb, points abordés : budget, communication.
 
 <!--fin-excerpt-->
