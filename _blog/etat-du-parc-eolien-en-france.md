@@ -14,7 +14,7 @@ in vicit arce sopor. Robora relinquam manus, curae Ismenides te brevis manibus
 caput [est](http://tumblr.com/) mortales astra. Est umbram onerosior Oenides
 armigerae idonea!
 
-1. Vetitorum tinxit
+1. Vetitorum tainxit
 2. Iamdudum relevare
 3. Sua mihi sed non grandine columba bracchiaque
 
