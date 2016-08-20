@@ -1,13 +1,10 @@
 ---
-layout: post
-title:  "Réflechir avant de tuer la faune sauvage"
-date:   2015-06-16 00:00:00
+title:  Réflechir avant d'abattre les arbres
+date:   2015-11-19 00:00:00
 type: information
-order: 3
+order: 1
 description: ""
-
 ---
-
 ### Le rôle sanitaire indispensable du renard et des nuisibles est prouvé scientifiquement : 800 000 renards tués/an en France pour rien.
 
 <!--fin-excerpt-->
@@ -18,7 +15,7 @@ description: ""
 
 Lorem markdownum alter in infusa diu cortice pondere pariturae somni infitianda,
 caesis pennis extulerat. Clymene caeleste et nescio Pelides supplex nemo:
-caeloque sequente, ignis redolentia tactosque. Aliquis merito cibique fictamque
+caeloque sequente, ignis redolessntia tactosque. Aliquis merito cibique fictamque
 iussit nomine Venerem fecit est vicinos idque, arida novas?
 
 - Gaudens famulis
