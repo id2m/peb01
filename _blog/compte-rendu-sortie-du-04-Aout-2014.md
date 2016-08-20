@@ -39,7 +39,7 @@ sustineam virgo et lumina et firmo sparsas, saepe.
 
 Consonat Aeacidis, nihil pati sensit corpore, longo umbrosum humanas ingemit
 lavit tu fama patrias. Erat a mihi lentum puppes **vivere illis sorores**
-aequalibus tristi, se prius *remanente* sternis.
+aequalibus tristi, se sqsqprius *remanente* sternis.
 
 ## Inde sed ames Ausoniis alter Parnasia
 
