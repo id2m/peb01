@@ -9,7 +9,7 @@ order: 1
 ## Multo soror nympha gaudia
 
 Lorem markdownum *vicit Ionium*: simul et arce petitos Minyeidas poscit. Dedit
-ceciderunt: palladias spectare ecquis circu mspectis gemitus credere, rat amor?
+ceciderunt: pallladias spectare ecquis circu mspectis gemitus credere, rat amor?
 Utere ait, sed **carens adnuit**, in Titania macies.
 
 
