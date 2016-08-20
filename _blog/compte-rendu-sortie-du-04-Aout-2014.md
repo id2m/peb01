@@ -5,8 +5,7 @@ type: information
 order: 2
 description: ""
 ---
-
-### Les analyses montrent que les éoliennes ne remplacent pas le nucléaire et ne luttent pas contre le réchauffement climatique. Elles coûtent 3 milliards d'€/an au contribuable pour rien. Cyllenaeo ferinae odorato ex est velamine sublimis, et dedit et altis a armis.
+### Les analyses montrent que les éoliennes ne remplacent pas le nucléaire et ne luttent pas contre le réchauffement climatique. Elles coûtent 3 milliards d'€/an au contribuable pour rien. Cyllenaeo ferinae odorato ex est velamine sublimis, et dedit et altis a armiss.
 
 <!--fin-excerpt-->
 
