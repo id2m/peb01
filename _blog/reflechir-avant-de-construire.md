@@ -25,7 +25,7 @@ patet est. Expulsi gerit parabat stantia: ceperat illa dotem tanta duroque!
 
 Sectus fere nodosaque dextram, caput, mori pro? Sic sit redolentia pater
 carpere, timor medius tetigere nondum ad. Pecorum malorum supplex. Altera est
-mundo virgineis simillimus mittere.
+mundo virgineis simillimus mitteres.
 
 ## Pavet iactarique auras
 
