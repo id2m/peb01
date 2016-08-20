@@ -8,7 +8,7 @@ order: 1
 
 <!--fin-excerpt-->
 
-## Morer tunc rebus aquis triplices calentes sed
+## Morertum tunc rebus aquis triplices calentes sed
 
 ### Inn et pugnae multis victoremque Midan semianimesque
 
