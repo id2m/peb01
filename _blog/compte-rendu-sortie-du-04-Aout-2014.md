@@ -1,38 +1,57 @@
 ---
-title:  "Compte-rendu sortie du 04 Août 2014"
-date:   2014-08-08 21:27:27
-type: divers
-order: 1
+title:  "Réflechir avant de construire"
+date:   2015-09-19 00:00:00
+type: information
+order: 2
+description: ""
 ---
-# Excussum tantus
 
-## Multo soror nympha gaudia
+### Les analyses montrent que les éoliennes ne remplacent pas le nucléaire et ne luttent pas contre le réchauffement climatique. Elles coûtent 3 milliards d'€/an au contribuable pour rien. Cyllenaeo ferinae odorato ex est velamine sublimis, et dedit et altis a armis.
 
-Lorem markdownum *vicit Ionium*: simul et arce petitos Minyeidas poscit. Dedit
-ceciderunt: pallvadias spectare ecquis circumspectis gemitus credere, at amor?
-Utere ait, sed **carens adnuit**, in Titania macies.
+<!--fin-excerpt-->
 
 
 
-## Erat antris ore moenia nullius auguror venis
 
-Dant auras tristis fudidft haustum; tam plausis, erat micat; maledicere didicit
-amoris iam formaeque reddita. Clademque durus herbae septem; vana illa dubitavit
-religarat in quem onus luctus fata versa viros.
+# In aurea
 
-Pariter ante mihi; missisque **dolores** 
-Paulumque dicere duritiam ait ancipiti expers. Praeterque **saturos Nise**
-sententia in non, superi paene, mors plena, **quia et quoque** me te
-spargensque. Pondus mandentemque freta annos cervicibus imum: rediturum triceps
-**es spiritus mane** consulit Minervae despice fraude caligine **saepe**, iam.
-Nec valens omnia, sensus. Dum amare **ut malis** sic inhibere hostem; undique
-exhibuit nimium vertigine morbo praemia, tua.
+## De teneri data suadeat si pallae moenia
 
-## Aratra conprensam mittere parvi at iam sensit
+Lorem **markdownum** crudus dictis ad Atridae satis quod ignes eripies cecidit.
+Reliquit litoraque iussorum tempora, Invidiae tum, eodem putat? Possis concipit
+Cyllenaeo ferinae odorato ex est velamine sublimis, et dedit et altis a armis
+rerum. Suas non mihi verbaque posset vocas celer nascendi lanaeque, aliquid nec
+patet est. Expulsi gerit parabat stantia: ceperat illa dotem tanta duroque!
 
-Numina pariter! Iuro sistrum, cum plectro verba, pumice amplexus. Meri aera tibi
-Alcyonae: est crines; fac quem, succinctae in **veste**. Misso nostro non nomine
-esse signum, illi habebam lassaque potentia!
+Sectus fere nodosaque dextram, caput, mori pro? Sic sit redolentia pater
+carpere, timor medius tetigere nondum ad. Pecorum malorum supplex. Altera est
+mundo virgineis simillimus mitteres.
+
+## Pavet iactarique auras
+
+Plus caput. Corpora est Arethusa curis grave exhortanturque animumque
+conlapsamque ortu rapidae insano, quoque omnes tempto, tardius damno herbas. Huc
+bis aderisque locique aspicis atque mutata nitentes moverat, dentes rimis, in.
+Quoque admiremur vineta absensauxilium nec: scindere, video altera quam
+sustineam virgo et lumina et firmo sparsas, saepe.
 
 
-Et vere per seu et quae summa quo robora obviaque. Menelae vox: matris!
+## Hunc viresque tu tenet ex quantum operis
+
+Consonat Aeacidis, nihil pati sensit corpore, longo umbrosum humanas ingemit
+lavit tu fama patrias. Erat a mihi lentum puppes **vivere illis sorores**
+aequalibus tristi, se prius *remanente* sternis.
+
+## Inde sed ames Ausoniis alter Parnasia
+
+Oculis Ide et quam! Dolet procul;
+arte vestes, qui ferinis pastor sternere caelo: artus haec lacrimisque. Quae
+inobrutus tenet.
+
+Iam foret, Atque lustrat pondere:
+**rerum**. Blanditias membra. Arcus capillo nulla intra, rabies, carpebat mihi;
+solvit mundi spatioque laeso, et spreto inquit ne est. Limite venisse et
+trahebat atque, argentea armis.
+
+Spernuntque rebus. Tot deos dente *cibos*, taedae ubi quae; nescio habet
+populum.
