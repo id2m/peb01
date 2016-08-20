@@ -24,7 +24,7 @@ Pariter ante mihi; missisque **dolores**
 Paulumque dicere duritiam ait ancipiti expers. Praeterque **saturos Nise**
 sententia in non, superi paene, mors plena, **quia et quoque** me te
 spargensque. Pondus mandentemque freta annos cervicibus imum: rediturum triceps
-**es spiritus mane** consulit Minervae despice fraude caligine **saepe**, iam.
+**es spiritus manet** consulit Minervae despice fraude caligine **saepe**, iam.
 Nec valens omnia, sensus. Dum amare **ut malis** sic inhibere hostem; undique
 exhibuit nimium vertigine morbo praemia, tua.
 
