@@ -8,7 +8,7 @@ order: 1
 
 <!--fin-excerpt-->
 
-## Certae adnuit hoc perque et celatus obituque
+## Certae adnuit hoc perqeue et celatus obituque
 
 ## Ttemeraria hederis sic sororem anima redire timidum
 
