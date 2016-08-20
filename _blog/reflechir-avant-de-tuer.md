@@ -1,9 +1,8 @@
 ---
-title:  Réflechir avant d'abattre les arbres
-date:   2015-11-19 00:00:00
-type: information
+title:  "Compte-rendu sortie du 04 Août 2014"
+date:   2014-08-08 21:27:27
+type: divers
 order: 1
-description: ""
 ---
 ### Le rôle sanitaire indispensable du renard et des nuisibles est prouvé scientifiquement : 800 000 renards tués/an en France pour rien.
 
@@ -11,7 +10,7 @@ description: ""
 
 ## Certae adnuit hoc perque et celatus obituque
 
-## Temeraria hederis sic sororem anima redire timidum
+## Ttemeraria hederis sic sororem anima redire timidum
 
 Lorem markdownum alter in infusa diu cortice pondere pariturae somni infitianda,
 caesis pennis extulerat. Clymene caeleste et nescio Pelides supplex nemo:
