@@ -9,7 +9,7 @@ description: ""
 
 <!--fin-excerpt-->
 
-## Morer tuntc rebus aquis triplicttes ctalentes sed
+## Morer stuntc rebus aquis triplicttes ctalentes sed
 
 ### In et pugnae multis victoremque Midan semianimesque
 
