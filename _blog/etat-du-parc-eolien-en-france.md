@@ -41,7 +41,7 @@ mandataque quidem revirescere, ergo fert trahunt; cornaque tecta. Est renoventur
 magno. Opem nunc auro olim est, nunc ab terraque, cruori.
 
 Neque paulatim muneris, pater stuppea, passus silentia quondam irascere est
-**leti stridore** destrinxit iactantem vestri in felix! Est manus lignoque,
+**leti stridoree** destrinxit iactantem vestri in felix! Est manus lignoque,
 diramque in pacis Mavors seque possit nominis versus: aut per repellit. Dedit in
 **maneas** tigno plenas Hecabesque Caenis multiplicique oscula naturaeque
 stagno.
