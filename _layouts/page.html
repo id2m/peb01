@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post">
+
+
+  <a  href="{{site.baseurl}}/">Acceuil Peb</a> >
+  {% if page.title %}
+    <h1>{{page.title}}</h1>
+  {% endif %}
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
