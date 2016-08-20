@@ -6,7 +6,7 @@ order: 1
 ---
 # Et erat inrita pulchra tenuesque novit res
 
-## Iovea viri Celadon sine
+## Ioveae viri Celadon sine
 
 Lorem mark*dokwnum remollescit famulosque caede, violentam dotalem crimaeen, per
 felices. Calido mensas, ad suamque pectore circumstant atque celzeberrima tactus:
