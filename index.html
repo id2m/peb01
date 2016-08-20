@@ -1,0 +1,105 @@
+---
+layout: home
+---
+
+
+
+<div class="welcome">
+  <ul class="Grid Grid--gutters-m">
+    <!-- text, part left on lg screen -->
+    <li class=" Grid-cell u-full u-med-1of2-m u-large-1of2-m ">
+      <div class="part-welcome-text">
+        <ul class="Grid">
+          <li class="Grid-cell u-full u-med-full u-large-full ">
+            <div class="header-welcome">Bienvenue,</div>
+          </li>
+          <li class="Grid-cell u-full u-med-full u-large-full" >
+            <div class="main-welcome">
+              <a href="{{site.baseurl}}/qui-sommes-nous/">
+                <h1 class="headline-site-title">
+                  {% if site.short-title %}{{site.short-title}},{% endif %} {{ site.title }}
+                </h1>
+              </a>
+              <span>, est une association pour la préservation et l'amélioration du cadre de vie et de la biodiversité. Nous sommes situés dans l'Ouest Vosgien.</span>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <!-- image, part right on lg screen -->
+    <li class="Grid-cell u-full u-med-1of2-m u-large-1of2-m ">
+      <div class="part-welcome-img">
+
+        {% picture welcome-home paysagebiodiversite-main.jpg alt="" %}
+        {% comment %}{% endcomment %}
+        <!-- <div class="post-photo" style="background-image: url('{{site.baseurl}}/images/paysage-biodiversite.jpg')"> -->
+        <!-- <img src="{{site.baseurl}}/images/paysage-biodiversite.jpg" alt="" /> -->
+      </div>
+    </li>
+  </ul>
+</div>
+
+
+{% assign information_blog = site.blog | where: "type", "information" | sort: "date" | reverse %}
+<div class="last-adds-blog-resizing">
+  <h3 class="heading">Derniers ajouts Blog, info :</h3>
+  <ul class="Grid Grid--gutters-m">
+    {% for post in information_blog limit:4 %}
+      <li class="last-add-resizing Grid-cell u-full u-med-1of2-m u-large-1of3-m ">
+        <!-- <div class="last-add"> -->
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <p>{{post.excerpt}}
+          {% comment %}
+            {% capture content_words %}
+              {{ post.content | number_of_words }}
+            {% endcapture %}
+            {% capture excerpt_words %}
+              {{ post.excerpt | number_of_words }}
+            {% endcapture %}
+            {% if excerpt_words != content_words %}
+              <!-- <p><a class="btn btn-sm btn-primary" href="{{ post.url }}/#read-more" role="button">Read more <i class="fa fa-arrow-circle-right"></i></a> -->
+              <span> ... </span>
+            {% endif %}
+          {% endcomment %}
+           </p>
+
+        <!-- </div> -->
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="last-adds-blog-unresize">
+  <h3 class="heading">Derniers ajouts Blog, alerte :</h3>
+  <ul class="Grid Grid--gutters-m">
+    {% for post in information_blog limit:3 %}
+      <li class="Grid-cell u-full u-med-1of2-m u-large-1of2-m ">
+        <div class="last-add-unresize">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <p>{{post.excerpt}}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="slider-presentation">
+  {% picture slider-home fox.jpg  alt="" %}
+  <div class="invisible">{% picture slider-home frog.jpg alt="" %}</div>
+  <div class="invisible">{% picture slider-home paysagebiodiversite-main.jpg alt="" %}</div>
+</div>

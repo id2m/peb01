@@ -1,0 +1,19 @@
+.Message {
+  padding: $spacing-h 0;
+  color: $secondary-text-color;
+  font-weight: 600;
+  box-shadow: 0 0 $border-shadow rgba($gray-shadow , 0.5);
+  border-radius: $border-radius-site;
+}
+
+.Error {
+  background: $danger-color;
+}
+
+.Warning {
+  background: $warning-color;
+}
+
+.Info {
+  background: $info-color;
+}
