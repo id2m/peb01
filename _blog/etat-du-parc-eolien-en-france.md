@@ -9,7 +9,7 @@ order: 1
 ## Iove viri Celadon sine
 
 Lorem markdownum remollescit famulosque caede, violentam dotalem crimeen, per
-felices. Calido mensas, ad suamque pectore circumstant atque celeberrima tactus:
+felices. Calido mensas, ad suamque pectore circumstant atque celzeberrima tactus:
 in vicit arce sopor. Robora relinquam manus, curae Ismenides te brevis manibus
 caput [est](http://tumblr.com/) mortales astra. Est umbram onerosior Oenides
 armigerae idonea!
