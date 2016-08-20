@@ -1,0 +1,32 @@
+- titre: Réunion AG 2016
+  description-courte: la prochaine AG se tiendra le 12 Avril 2016, à 20h, au siège de l'association.
+  lien-post:
+  image:
+  date-debut: 12-04-2016
+  date-fin:
+  date-unique: oui
+  date-parution: 01-03-2016
+  date-expire: 12-04-2016
+  ajout-calendrier : non
+
+- titre: WE biodiversité
+  description-courte: Dernier week-en de Mai; un week-end d'échanges avec les associations régionales sur un site naturel.
+  lien-post:
+  image:
+  date-debut:
+  date-fin:
+  date-unique: non
+  date-parution: 01-02-2016
+  date-expire: 01-06-2016
+  ajout-calendrier : non
+
+- titre: Journée éolienne
+  description-courte:
+  lien-post:
+  image:
+  date-debut: 30-04-2016
+  date-fin:
+  date-unique: oui
+  date-parution: 28-03-2016
+  date-expire: 30-04-2016
+  ajout-calendrier : non
