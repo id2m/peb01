@@ -10,7 +10,7 @@ order: 1
 
 Lorem markdownum *vicit Ionium*: simul et arce petitos Minyeidas poscit. Dedit
 ceciderunt: pallladias spectare ecquis circu mspectis gemitus credere, rat amor?
-Utere ait, sed **carens adnuit**, in Titania macies.
+Utere ait, sed **carens adnuit**, in Titanias macies.
 
 
 
