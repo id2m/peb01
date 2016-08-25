@@ -6,4 +6,5 @@ last_modified : 25 Août 2016 20-27-30
 order : 97
 type : energie renouvelable
 miniature : dummy-640x310-4.jpg
+label : ab
 ---
