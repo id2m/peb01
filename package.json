@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-clean-css": "^2.0.3",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "install": "sudo npm install",
+    "install:all": "sudo npm install -g npm && sudo npm install -g gulp && npm install",
+    "update": "sudo npm update"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
