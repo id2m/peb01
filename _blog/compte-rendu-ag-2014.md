@@ -1,7 +1,7 @@
 ---
 title : Compte rendu ag 2014
 date : 2015-02-27 21:27:27
-type : eolien
+type : ["eolien"]
 order : 21
 miniature : fox.jpg
 ---
