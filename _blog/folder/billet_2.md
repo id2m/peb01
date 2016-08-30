@@ -7,12 +7,4 @@ order : 99
 type : ["biodiversité"]
 miniature : CliffsByBjzaba.png
 ---
-<a href="https://drive.google.com/uc?export=view&id=0B8fHSjalmbNEaWlSWHluOWc4ekE">
-  <img src="https://drive.google.com/uc?export=view&id=0B8fHSjalmbNEaWlSWHluOWc4ekE"
-      style="width: 500px; max-width:30%; height: auto" title="Click for the larger version." alt="recto flyer PEB 2015" />
-</a>
-
-
-**ajout textz**
-
-https://drive.google.com/open?id=0B8fHSjalmbNEVG9FQjByck1FTWM
+<p><a href="https://drive.google.com/uc?export=view&amp;id=0B8fHSjalmbNEaWlSWHluOWc4ekE"><img alt="recto flyer PEB 2015" src="https://drive.google.com/uc?export=view&amp;id=0B8fHSjalmbNEaWlSWHluOWc4ekE" style="height:auto; width:500px" /></a>ajout textz&nbsp;https://drive.google.com/open?id=0B8fHSjalmbNEVG9FQjByck1FTWM</p>
