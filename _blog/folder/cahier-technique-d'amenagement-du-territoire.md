@@ -14,7 +14,7 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 &nbsp;</p>
 
-<p style="text-align:center"><img alt="" height="379" src="https://docs.google.com/drawings/d/s_9LLLZYVph7vCv3JouTGbg/image?w=645&amp;h=379&amp;rev=1&amp;ac=1" width="645" /></p>
+<p style="text-align:center"><img alt="" src="https://docs.google.com/drawings/d/s_9LLLZYVph7vCv3JouTGbg/image?w=645&amp;h=379&amp;rev=1&amp;ac=1" style="height:379px; width:645px" /></p>
 
 <p><br />
 <br />
@@ -24,7 +24,7 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 &nbsp;</p>
 
-<p><img alt="" height="209" src="https://docs.google.com/drawings/d/s3owbdORTSFeCeBnLcqgeVw/image?w=255&amp;h=209&amp;rev=1&amp;ac=1" width="255" /><img alt="" height="209" src="https://docs.google.com/drawings/d/soKyQCAjSMOs4ZTrexsqbQA/image?w=256&amp;h=209&amp;rev=1&amp;ac=1" width="256" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/s3owbdORTSFeCeBnLcqgeVw/image?w=255&amp;h=209&amp;rev=1&amp;ac=1" style="height:209px; width:255px" /><img alt="" src="https://docs.google.com/drawings/d/soKyQCAjSMOs4ZTrexsqbQA/image?w=256&amp;h=209&amp;rev=1&amp;ac=1" style="height:209px; width:256px" /></p>
 
 <p>SOMMAIRE</p>
 
@@ -135,7 +135,7 @@ miniature : paysagebiodiversite-main.jpg
 
 <p>&nbsp;</p>
 
-<p>Le donneur d&rsquo;ordre et son projet&nbsp;: Pierre-Yves EYER, agriculteur &agrave; la ferme du Corroy, 52700 PREZ SOUS LAFAUCHE, souhaite construire un b&acirc;timent agricole orient&eacute; sud/sud-ouest, &agrave; des fins de stockage de c&eacute;r&eacute;ales, de rangement de mat&eacute;riel et de production &eacute;lectrique via des panneaux photovolta&iuml;ques appos&eacute;s sur son toit c&ocirc;t&eacute; sud.</p>
+<p><img alt="google-earth-neufchateau.bmp" src="https://lh6.googleusercontent.com/CqHpD7nEjYegkLEvsjwUoVdNH7jeGDfD7SwpRP-I4mZyvDavZhKxfPcG0pCEZ9IPL5UVinNIa3rEj09WFQj-x-aWITpRgBXo1vW3C7IUa60yIxWsTbALUukxcbiFwygi_Ply64c" style="float:left; margin-left:10px; margin-right:10px; width:40%" />Le donneur d&rsquo;ordre et son projet&nbsp;: Pierre-Yves EYER, agriculteur &agrave; la ferme du Corroy, 52700 PREZ SOUS LAFAUCHE, souhaite construire un b&acirc;timent agricole orient&eacute; sud/sud-ouest, &agrave; des fins de stockage de c&eacute;r&eacute;ales, de rangement de mat&eacute;riel et de production &eacute;lectrique via des panneaux photovolta&iuml;ques appos&eacute;s sur son toit c&ocirc;t&eacute; sud.</p>
 
 <p>Les envies / les contraintes&nbsp;: Ce nouveau b&acirc;timent sera de dimension importante, 17 m&egrave;tres de large sur 58 m&egrave;tres de long sur 9 m&egrave;tres de hauteur &agrave; la goutti&egrave;re et 12 m&egrave;tres de hauteur au fa&icirc;te du toit.</p>
 
@@ -145,19 +145,7 @@ miniature : paysagebiodiversite-main.jpg
 
 <p>&nbsp;</p>
 
-<table style="width:680px">
-	<tbody>
-		<tr>
-			<td>
-			<p><img alt="google-earth-neufchateau.bmp" height="353" src="https://lh6.googleusercontent.com/CqHpD7nEjYegkLEvsjwUoVdNH7jeGDfD7SwpRP-I4mZyvDavZhKxfPcG0pCEZ9IPL5UVinNIa3rEj09WFQj-x-aWITpRgBXo1vW3C7IUa60yIxWsTbALUukxcbiFwygi_Ply64c" width="665" /></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br />
-<br />
-<img alt="" height="261" src="https://docs.google.com/drawings/d/s45jWiDujsfDrAvbqLDDAbA/image?w=673&amp;h=261&amp;rev=1&amp;ac=1" width="673" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/s45jWiDujsfDrAvbqLDDAbA/image?w=673&amp;h=261&amp;rev=1&amp;ac=1" style="height:261px; width:673px" /></p>
 
 <p>Pierre-Yves EYER a donc opt&eacute; pour une autre solution&nbsp;:</p>
 
@@ -192,7 +180,7 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 <br />
 <br />
-<img alt="" height="463" src="https://docs.google.com/drawings/d/scghkNEp4Fwh6JGeTWQrM1w/image?w=675&amp;h=463&amp;rev=1&amp;ac=1" width="675" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/scghkNEp4Fwh6JGeTWQrM1w/image?w=675&amp;h=463&amp;rev=1&amp;ac=1" style="height:463px; width:675px" /><br />
 <br />
 <br />
 <br />
@@ -213,7 +201,7 @@ miniature : paysagebiodiversite-main.jpg
 
 <p></p>
 
-<p><img alt="" height="195" src="https://docs.google.com/drawings/d/svOfyfl436pWwpQudl6uZQg/image?w=620&amp;h=195&amp;rev=1&amp;ac=1" width="620" /><img alt="" height="203" src="https://docs.google.com/drawings/d/srJQ7jCKlxrL5xm6ju7TdYw/image?w=636&amp;h=203&amp;rev=1&amp;ac=1" width="636" /><img alt="" height="427" src="https://docs.google.com/drawings/d/s6UdEh7_o_Yk_v58RL0XoRg/image?w=627&amp;h=427&amp;rev=1&amp;ac=1" width="627" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/svOfyfl436pWwpQudl6uZQg/image?w=620&amp;h=195&amp;rev=1&amp;ac=1" style="height:195px; width:620px" /><img alt="" src="https://docs.google.com/drawings/d/srJQ7jCKlxrL5xm6ju7TdYw/image?w=636&amp;h=203&amp;rev=1&amp;ac=1" style="height:203px; width:636px" /><img alt="" src="https://docs.google.com/drawings/d/s6UdEh7_o_Yk_v58RL0XoRg/image?w=627&amp;h=427&amp;rev=1&amp;ac=1" style="height:427px; width:627px" /></p>
 
 <p>METEOROLOGIE (faire une synth&egrave;se des vents dominants via une station m&eacute;t&eacute;o locale&nbsp;; voir possibilit&eacute;s)</p>
 
@@ -228,7 +216,7 @@ miniature : paysagebiodiversite-main.jpg
 <p>PAYSAGE EXISTANT</p>
 
 <p><br />
-<img alt="" height="281" src="https://docs.google.com/drawings/d/slvQB5L40x7l5SnfHAUt5Hw/image?w=687&amp;h=281&amp;rev=1&amp;ac=1" width="687" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/slvQB5L40x7l5SnfHAUt5Hw/image?w=687&amp;h=281&amp;rev=1&amp;ac=1" style="height:281px; width:687px" /><br />
 <br />
 <br />
 <br />
@@ -237,7 +225,7 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 <br />
 <br />
-<img alt="" height="228" src="https://docs.google.com/drawings/d/sZhejsZPn2w6sM0AB9SGKaw/image?w=671&amp;h=228&amp;rev=1&amp;ac=1" width="671" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sZhejsZPn2w6sM0AB9SGKaw/image?w=671&amp;h=228&amp;rev=1&amp;ac=1" style="height:228px; width:671px" /><br />
 &nbsp;</p>
 
 <p></p>
@@ -245,7 +233,7 @@ miniature : paysagebiodiversite-main.jpg
 <p>QUELQUES EXEMPLES &nbsp;</p>
 
 <p><br />
-<img alt="" height="823" src="https://docs.google.com/drawings/d/sQDeKB6_pFnIoMJZ8mZRBHQ/image?w=639&amp;h=823&amp;rev=1&amp;ac=1" width="639" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sQDeKB6_pFnIoMJZ8mZRBHQ/image?w=639&amp;h=823&amp;rev=1&amp;ac=1" style="height:823px; width:639px" /><br />
 <br />
 <br />
 <br />
@@ -278,7 +266,7 @@ miniature : paysagebiodiversite-main.jpg
 <p>Aujourd&rsquo;hui l&rsquo;attention des scientifiques se porte aussi sur les animaux &laquo;&nbsp;ordinaires&nbsp;&raquo; qui sont en voie de disparition. Les moineaux et les hirondelles par exemple, autrefois tr&egrave;s communs subissent une baisse de 40% des effectifs. En cause&nbsp;? Principalement la disparition des haies, les insecticides agricoles et l&rsquo;urbanisation.</p>
 
 <p><br />
-<img alt="" height="104" src="https://docs.google.com/drawings/d/sJaTYhsvWOTZ2zkPREEDUzQ/image?w=680&amp;h=104&amp;rev=1&amp;ac=1" width="680" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sJaTYhsvWOTZ2zkPREEDUzQ/image?w=680&amp;h=104&amp;rev=1&amp;ac=1" style="height:104px; width:680px" /><br />
 <br />
 &nbsp;</p>
 
@@ -316,7 +304,7 @@ miniature : paysagebiodiversite-main.jpg
 
 <p><br />
 <br />
-<img alt="" height="508" src="https://docs.google.com/drawings/d/sE6faTc4sX9mPoOkbzIRa5w/image?w=624&amp;h=508&amp;rev=1&amp;ac=1" width="624" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sE6faTc4sX9mPoOkbzIRa5w/image?w=624&amp;h=508&amp;rev=1&amp;ac=1" style="height:508px; width:624px" /><br />
 <br />
 <br />
 <br />
@@ -341,9 +329,9 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 &nbsp;</p>
 
-<p><img alt="" height="1007" src="https://docs.google.com/drawings/d/s2M2BQRIk6174ldG46emNow/image?w=633&amp;h=1007&amp;rev=1&amp;ac=1" width="633" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/s2M2BQRIk6174ldG46emNow/image?w=633&amp;h=1007&amp;rev=1&amp;ac=1" style="height:1007px; width:633px" /></p>
 
-<p><img alt="" height="1008" src="https://docs.google.com/drawings/d/sKoX3gj8vlA4S1eUmmevLEA/image?w=629&amp;h=1008&amp;rev=1&amp;ac=1" width="629" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/sKoX3gj8vlA4S1eUmmevLEA/image?w=629&amp;h=1008&amp;rev=1&amp;ac=1" style="height:1008px; width:629px" /></p>
 
 <p>DISTANCE ET NOMBRE DE PIEDS PAR STRATE</p>
 
@@ -386,15 +374,15 @@ miniature : paysagebiodiversite-main.jpg
 
 <ul style="list-style-type:disc">
 	<li>
-	<p>Les plants sont espac&eacute;s d&rsquo;1m entre eux. <img alt="" height="356" src="https://docs.google.com/drawings/d/ss_jdZn42zzG7rVyxQjmI6g/image?w=720&amp;h=356&amp;rev=1&amp;ac=1" width="720" /></p>
+	<p>Les plants sont espac&eacute;s d&rsquo;1m entre eux. <img alt="" src="https://docs.google.com/drawings/d/ss_jdZn42zzG7rVyxQjmI6g/image?w=720&amp;h=356&amp;rev=1&amp;ac=1" style="height:356px; width:720px" /></p>
 	</li>
 </ul>
 
-<p><img alt="" height="932" src="https://docs.google.com/drawings/d/sCRIRZln_z1KJyzgTl24l0g/image?w=745&amp;h=932&amp;rev=1&amp;ac=1" width="745" /><img alt="" height="93" src="https://docs.google.com/drawings/d/sefk3luKclnE3qL9dJ7nwxw/image?w=180&amp;h=93&amp;rev=1&amp;ac=1" width="180" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/sCRIRZln_z1KJyzgTl24l0g/image?w=745&amp;h=932&amp;rev=1&amp;ac=1" style="height:932px; width:745px" /><img alt="" src="https://docs.google.com/drawings/d/sefk3luKclnE3qL9dJ7nwxw/image?w=180&amp;h=93&amp;rev=1&amp;ac=1" style="height:93px; width:180px" /></p>
 
-<p>EVOLUTION DE LA POUSSE <img alt="" height="421" src="https://docs.google.com/drawings/d/skGrHfwIxKdR6sFxANZfGaw/image?w=705&amp;h=421&amp;rev=1&amp;ac=1" width="705" /><img alt="" height="239" src="https://docs.google.com/drawings/d/sUcr7l_dQUO3JxFWMtaTUvQ/image?w=636&amp;h=239&amp;rev=1&amp;ac=1" width="636" /></p>
+<p>EVOLUTION DE LA POUSSE <img alt="" src="https://docs.google.com/drawings/d/skGrHfwIxKdR6sFxANZfGaw/image?w=705&amp;h=421&amp;rev=1&amp;ac=1" style="height:421px; width:705px" /><img alt="" src="https://docs.google.com/drawings/d/sUcr7l_dQUO3JxFWMtaTUvQ/image?w=636&amp;h=239&amp;rev=1&amp;ac=1" style="height:239px; width:636px" /></p>
 
-<p><img alt="" height="433" src="https://docs.google.com/drawings/d/snu88SvLh73eYiLFhsIXFBg/image?w=689&amp;h=433&amp;rev=1&amp;ac=1" width="689" /><img alt="" height="444" src="https://docs.google.com/drawings/d/sc7Jmt6Ur8z3ekbVtWD-kuw/image?w=652&amp;h=444&amp;rev=1&amp;ac=1" width="652" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/snu88SvLh73eYiLFhsIXFBg/image?w=689&amp;h=433&amp;rev=1&amp;ac=1" style="height:433px; width:689px" /><img alt="" src="https://docs.google.com/drawings/d/sc7Jmt6Ur8z3ekbVtWD-kuw/image?w=652&amp;h=444&amp;rev=1&amp;ac=1" style="height:444px; width:652px" /></p>
 
 <p>&nbsp;</p>
 
@@ -434,10 +422,10 @@ miniature : paysagebiodiversite-main.jpg
 <p>Strate Arborescente Haute &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 20-30 m&egrave;tres &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 
 <p><br />
-<img alt="" height="24" src="https://docs.google.com/drawings/d/sSRoREXcKZZkaMpvFZPDE7A/image?w=44&amp;h=24&amp;rev=1&amp;ac=1" width="44" /><img alt="" height="27" src="https://docs.google.com/drawings/d/s9BrnhCfND1el_0YPDMtc5g/image?w=44&amp;h=27&amp;rev=1&amp;ac=1" width="44" /><br />
-<img alt="" height="176" src="https://docs.google.com/drawings/d/suybSTDlM8jWUaDmMtl1TzA/image?w=340&amp;h=176&amp;rev=1&amp;ac=1" width="340" /><img alt="" height="169" src="https://docs.google.com/drawings/d/sKRtg6vT_tbS5xvon_2Th5A/image?w=333&amp;h=169&amp;rev=1&amp;ac=1" width="333" /></p>
+<img alt="" src="https://docs.google.com/drawings/d/sSRoREXcKZZkaMpvFZPDE7A/image?w=44&amp;h=24&amp;rev=1&amp;ac=1" style="height:24px; width:44px" /><img alt="" src="https://docs.google.com/drawings/d/s9BrnhCfND1el_0YPDMtc5g/image?w=44&amp;h=27&amp;rev=1&amp;ac=1" style="height:27px; width:44px" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/suybSTDlM8jWUaDmMtl1TzA/image?w=340&amp;h=176&amp;rev=1&amp;ac=1" style="height:176px; width:340px" /><img alt="" src="https://docs.google.com/drawings/d/sKRtg6vT_tbS5xvon_2Th5A/image?w=333&amp;h=169&amp;rev=1&amp;ac=1" style="height:169px; width:333px" /></p>
 
-<p>&nbsp;&nbsp;<img alt="" height="51" src="https://docs.google.com/drawings/d/sGcXeBqVvFH63493jT3IgsQ/image?w=671&amp;h=51&amp;rev=1&amp;ac=1" width="671" /><img alt="" height="23" src="https://docs.google.com/drawings/d/sTUsjusII7t9dzE2GyAINsQ/image?w=683&amp;h=23&amp;rev=1&amp;ac=1" width="683" /><img alt="" height="193" src="https://docs.google.com/drawings/d/sXBtAgFKX2ymdI9xz0e9lUQ/image?w=319&amp;h=193&amp;rev=1&amp;ac=1" width="319" /><img alt="" height="27" src="https://docs.google.com/drawings/d/sqIUTDvInQkJBTMmwRPt-tA/image?w=44&amp;h=27&amp;rev=1&amp;ac=1" width="44" /><img alt="" height="27" src="https://docs.google.com/drawings/d/sp4jyEro2AY-G66on5YNYiw/image?w=44&amp;h=27&amp;rev=1&amp;ac=1" width="44" /><img alt="" height="199" src="https://docs.google.com/drawings/d/sUKZ0-F4AeA2Z56I10YY7hA/image?w=335&amp;h=199&amp;rev=1&amp;ac=1" width="335" /></p>
+<p>&nbsp;&nbsp;<img alt="" src="https://docs.google.com/drawings/d/sGcXeBqVvFH63493jT3IgsQ/image?w=671&amp;h=51&amp;rev=1&amp;ac=1" style="height:51px; width:671px" /><img alt="" src="https://docs.google.com/drawings/d/sTUsjusII7t9dzE2GyAINsQ/image?w=683&amp;h=23&amp;rev=1&amp;ac=1" style="height:23px; width:683px" /><img alt="" src="https://docs.google.com/drawings/d/sXBtAgFKX2ymdI9xz0e9lUQ/image?w=319&amp;h=193&amp;rev=1&amp;ac=1" style="height:193px; width:319px" /><img alt="" src="https://docs.google.com/drawings/d/sqIUTDvInQkJBTMmwRPt-tA/image?w=44&amp;h=27&amp;rev=1&amp;ac=1" style="height:27px; width:44px" /><img alt="" src="https://docs.google.com/drawings/d/sp4jyEro2AY-G66on5YNYiw/image?w=44&amp;h=27&amp;rev=1&amp;ac=1" style="height:27px; width:44px" /><img alt="" src="https://docs.google.com/drawings/d/sUKZ0-F4AeA2Z56I10YY7hA/image?w=335&amp;h=199&amp;rev=1&amp;ac=1" style="height:199px; width:335px" /></p>
 
 <p>&nbsp;</p>
 
@@ -523,7 +511,7 @@ miniature : paysagebiodiversite-main.jpg
 
 <p><br />
 <br />
-<img alt="" height="709" src="https://docs.google.com/drawings/d/scz71kybbtRUh3HwgfMuyng/image?w=625&amp;h=709&amp;rev=1&amp;ac=1" width="625" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/scz71kybbtRUh3HwgfMuyng/image?w=625&amp;h=709&amp;rev=1&amp;ac=1" style="height:709px; width:625px" /><br />
 <br />
 <br />
 <br />
@@ -766,13 +754,13 @@ miniature : paysagebiodiversite-main.jpg
 <p>Floraison des essences s&eacute;lectionn&eacute;es</p>
 
 <p><br />
-<img alt="" height="61" src="https://docs.google.com/drawings/d/s8OTDh3yyC03xKzZv9E6V6A/image?w=695&amp;h=61&amp;rev=1&amp;ac=1" width="695" /></p>
+<img alt="" src="https://docs.google.com/drawings/d/s8OTDh3yyC03xKzZv9E6V6A/image?w=695&amp;h=61&amp;rev=1&amp;ac=1" style="height:61px; width:695px" /></p>
 
 <table>
 	<tbody>
 		<tr>
 			<td>
-			<p>Essences<img alt="" height="501" src="https://docs.google.com/drawings/d/sJLDQuEAv9akjULS0idIafQ/image?w=695&amp;h=501&amp;rev=1&amp;ac=1" width="695" /></p>
+			<p>Essences<img alt="" src="https://docs.google.com/drawings/d/sJLDQuEAv9akjULS0idIafQ/image?w=695&amp;h=501&amp;rev=1&amp;ac=1" style="height:501px; width:695px" /></p>
 			</td>
 			<td>
 			<p>Janvier</p>
@@ -1148,20 +1136,20 @@ miniature : paysagebiodiversite-main.jpg
 <p><br />
 &nbsp;</p>
 
-<p><img alt="" height="32" src="https://docs.google.com/drawings/d/sYYy1h8pPgssQjefkdNc4Xw/image?w=104&amp;h=32&amp;rev=1&amp;ac=1" width="104" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/sYYy1h8pPgssQjefkdNc4Xw/image?w=104&amp;h=32&amp;rev=1&amp;ac=1" style="height:32px; width:104px" /></p>
 
 <p>&nbsp;</p>
 
 <p>Fructification des essences s&eacute;lectionn&eacute;es</p>
 
 <p><br />
-<img alt="" height="61" src="https://docs.google.com/drawings/d/sMYf40TbVHBVdbZnqEigdGA/image?w=695&amp;h=61&amp;rev=1&amp;ac=1" width="695" /></p>
+<img alt="" src="https://docs.google.com/drawings/d/sMYf40TbVHBVdbZnqEigdGA/image?w=695&amp;h=61&amp;rev=1&amp;ac=1" style="height:61px; width:695px" /></p>
 
 <table>
 	<tbody>
 		<tr>
 			<td>
-			<p>Essences<img alt="" height="496" src="https://docs.google.com/drawings/d/s4srXhFGXw5tgR7YKM-oWqA/image?w=695&amp;h=496&amp;rev=1&amp;ac=1" width="695" /></p>
+			<p>Essences<img alt="" src="https://docs.google.com/drawings/d/s4srXhFGXw5tgR7YKM-oWqA/image?w=695&amp;h=496&amp;rev=1&amp;ac=1" style="height:496px; width:695px" /></p>
 			</td>
 			<td>
 			<p>Janvier</p>
@@ -1571,14 +1559,14 @@ miniature : paysagebiodiversite-main.jpg
 
 <p>&nbsp;</p>
 
-<p><img alt="" height="32" src="https://docs.google.com/drawings/d/s9zpMnX6T_OI0f10Sq165HA/image?w=104&amp;h=32&amp;rev=1&amp;ac=1" width="104" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/s9zpMnX6T_OI0f10Sq165HA/image?w=104&amp;h=32&amp;rev=1&amp;ac=1" style="height:32px; width:104px" /></p>
 
 <p>&nbsp;</p>
 
 <p>Fusion des deux tableaux</p>
 
 <p><br />
-<img alt="" height="92" src="https://docs.google.com/drawings/d/sd0P8GK2txT5GUrbFuyHc-g/image?w=647&amp;h=92&amp;rev=1&amp;ac=1" width="647" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sd0P8GK2txT5GUrbFuyHc-g/image?w=647&amp;h=92&amp;rev=1&amp;ac=1" style="height:92px; width:647px" /><br />
 <br />
 &nbsp;</p>
 
@@ -1586,7 +1574,7 @@ miniature : paysagebiodiversite-main.jpg
 	<tbody>
 		<tr>
 			<td>
-			<p>Essences<img alt="" height="501" src="https://docs.google.com/drawings/d/sgtcRUSg5LxARSfK0R2Th8Q/image?w=695&amp;h=501&amp;rev=1&amp;ac=1" width="695" /></p>
+			<p>Essences<img alt="" src="https://docs.google.com/drawings/d/sgtcRUSg5LxARSfK0R2Th8Q/image?w=695&amp;h=501&amp;rev=1&amp;ac=1" style="height:501px; width:695px" /></p>
 			</td>
 			<td>
 			<p>Janvier</p>
@@ -1991,7 +1979,7 @@ miniature : paysagebiodiversite-main.jpg
 	</tbody>
 </table>
 
-<p><img alt="" height="32" src="https://docs.google.com/drawings/d/smedOzebBJNe7zXGUowyWXw/image?w=104&amp;h=32&amp;rev=1&amp;ac=1" width="104" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/smedOzebBJNe7zXGUowyWXw/image?w=104&amp;h=32&amp;rev=1&amp;ac=1" style="height:32px; width:104px" /></p>
 
 <p>&nbsp;</p>
 
@@ -2014,7 +2002,7 @@ miniature : paysagebiodiversite-main.jpg
 <p>Cette liste tient compte du type d&rsquo;essences, de la situation g&eacute;ographique en plaine agricole et de l&rsquo;aire de r&eacute;partition des esp&egrave;ces cit&eacute;es.</p>
 
 <p><br />
-<img alt="" height="536" src="https://docs.google.com/drawings/d/s5cVNf83cUsvFQMM_e2Uy3g/image?w=683&amp;h=536&amp;rev=1&amp;ac=1" width="683" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/s5cVNf83cUsvFQMM_e2Uy3g/image?w=683&amp;h=536&amp;rev=1&amp;ac=1" style="height:536px; width:683px" /><br />
 <br />
 <br />
 <br />
@@ -2024,17 +2012,17 @@ miniature : paysagebiodiversite-main.jpg
 
 <p></p>
 
-<p><img alt="" height="939" src="https://docs.google.com/drawings/d/sQK4HVTeYq8MWYeGsippfQg/image?w=704&amp;h=939&amp;rev=1&amp;ac=1" width="704" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/sQK4HVTeYq8MWYeGsippfQg/image?w=704&amp;h=939&amp;rev=1&amp;ac=1" style="height:939px; width:704px" /></p>
 
-<p><img alt="" height="935" src="https://docs.google.com/drawings/d/sCA0cy_wefiBKqTYEBhi_8A/image?w=715&amp;h=935&amp;rev=1&amp;ac=1" width="715" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/sCA0cy_wefiBKqTYEBhi_8A/image?w=715&amp;h=935&amp;rev=1&amp;ac=1" style="height:935px; width:715px" /></p>
 
-<p><img alt="" height="744" src="https://docs.google.com/drawings/d/szQ-PKiHfMAlO3l_c--q_bA/image?w=727&amp;h=744&amp;rev=1&amp;ac=1" width="727" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/szQ-PKiHfMAlO3l_c--q_bA/image?w=727&amp;h=744&amp;rev=1&amp;ac=1" style="height:744px; width:727px" /></p>
 
 <p>MAMMIFERES</p>
 
 <p>PAPILLONS</p>
 
-<p><img alt="" height="196" src="https://docs.google.com/drawings/d/ssttVbZiXRi61T4ALHdkDRQ/image?w=205&amp;h=196&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="185" src="https://docs.google.com/drawings/d/sdAOI_CIdlmFMxkNga_Ktmw/image?w=205&amp;h=185&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="187" src="https://docs.google.com/drawings/d/sSDBvZETvaOFK3mczp9XmFw/image?w=205&amp;h=187&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="187" src="https://docs.google.com/drawings/d/scr7UZV_O9ysHxCEc-tA6lA/image?w=205&amp;h=187&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="187" src="https://docs.google.com/drawings/d/stt3ytq7VJkKDd-IYdK7Qsg/image?w=217&amp;h=187&amp;rev=1&amp;ac=1" width="217" /><img alt="" height="187" src="https://docs.google.com/drawings/d/s1uVYVikxdvRuKLVABH7F-Q/image?w=205&amp;h=187&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="192" src="https://docs.google.com/drawings/d/swgViF_mIKWxFnguWeiJTEA/image?w=205&amp;h=192&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="181" src="https://docs.google.com/drawings/d/szdPiuYxWSCS-e0Oxl2vDcw/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="181" src="https://docs.google.com/drawings/d/ssvQs-0Ehv5DWt5gkcPTzXA/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="181" src="https://docs.google.com/drawings/d/sadrLpEt7-N3EshN3awBKgg/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="180" src="https://docs.google.com/drawings/d/s5Y5UjTKn1A8YXGoTFsE2ew/image?w=205&amp;h=180&amp;rev=1&amp;ac=1" width="205" /><img alt="" height="181" src="https://docs.google.com/drawings/d/sKnVjIPDY3V74WbDegsIhQg/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" width="205" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/ssttVbZiXRi61T4ALHdkDRQ/image?w=205&amp;h=196&amp;rev=1&amp;ac=1" style="height:196px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/sdAOI_CIdlmFMxkNga_Ktmw/image?w=205&amp;h=185&amp;rev=1&amp;ac=1" style="height:185px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/sSDBvZETvaOFK3mczp9XmFw/image?w=205&amp;h=187&amp;rev=1&amp;ac=1" style="height:187px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/scr7UZV_O9ysHxCEc-tA6lA/image?w=205&amp;h=187&amp;rev=1&amp;ac=1" style="height:187px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/stt3ytq7VJkKDd-IYdK7Qsg/image?w=217&amp;h=187&amp;rev=1&amp;ac=1" style="height:187px; width:217px" /><img alt="" src="https://docs.google.com/drawings/d/s1uVYVikxdvRuKLVABH7F-Q/image?w=205&amp;h=187&amp;rev=1&amp;ac=1" style="height:187px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/swgViF_mIKWxFnguWeiJTEA/image?w=205&amp;h=192&amp;rev=1&amp;ac=1" style="height:192px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/szdPiuYxWSCS-e0Oxl2vDcw/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" style="height:181px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/ssvQs-0Ehv5DWt5gkcPTzXA/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" style="height:181px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/sadrLpEt7-N3EshN3awBKgg/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" style="height:181px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/s5Y5UjTKn1A8YXGoTFsE2ew/image?w=205&amp;h=180&amp;rev=1&amp;ac=1" style="height:180px; width:205px" /><img alt="" src="https://docs.google.com/drawings/d/sKnVjIPDY3V74WbDegsIhQg/image?w=205&amp;h=181&amp;rev=1&amp;ac=1" style="height:181px; width:205px" /></p>
 
 <p>AUTRES INSECTES </p>
 
@@ -2046,7 +2034,7 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 <br />
 <br />
-<img alt="" height="88" src="https://docs.google.com/drawings/d/sK1C0Un79wFiFVX7K-f4mZw/image?w=619&amp;h=88&amp;rev=1&amp;ac=1" width="619" /><img alt="" height="88" src="https://lh4.googleusercontent.com/yD1YRqX2unjD2eDN9d2idjE4PgkdGGjsXDJtp0beFuBXkbPgOlewL5kS2B-snPC31luCaUBCxvJfLA9wvmMqq_3vqYjawp-lEKIraRLCc1_1DpoD0sloClFJx0hJJoDxeIZATl-4bbxzeCUM" width="618" /><img alt="" height="88" src="https://lh4.googleusercontent.com/0sNc10zfooZzoY3mFqc9-j5YicTqZECfvTGjDd_e0oZ-CCJGj-baPF9zWuMgff8zJ1svdS8utWXFayxe3RDgd46W57dk9ceBCqmsNUg0IdqVuhQGMDCtib15syLnHhKyCfkfdpVUq1B83vMn" width="618" /><img alt="" height="88" src="https://lh6.googleusercontent.com/5Urde9PjPKu3EpCZXOfVLl4vx90HmRqaSVPg1pOPi140LQ-kaux755IjDbvCiet9bYAcoQVptDeYkSob_4r5E6lYhmfK2Iu948BvS9DMu0aRZdZH7O-Tb8x3vTFZUxa_nvxFK1hYj12CXg2N" width="618" /><img alt="" height="88" src="https://lh3.googleusercontent.com/zpFkCtDQv6XTs7-XdzySwzoo2SJWgizAIrmVUUMPUvw3wXGPJsq5k2s7iVFXCnqvVR471HcG136ET0ksnD1joyGdmeyEn6WnGWhMLuUQ6rgwWE0mZBB72kKx6qwHvgOzO2sC2EbV5P-JJn5r" width="618" /><img alt="" height="88" src="https://lh3.googleusercontent.com/opUht1VqmD_UWKBxH9s3cbDrR1Ncf9RCPCUNVMPbhWA8diVDhCuWX-txn7Q-0OQQEZ5O05k4oAj9m4bx0RGMQQ3cgbYesXReiYNiIE1t2zUTT3ft_xHRBBezJuQmf4sZmpkTK9o4uDTkJ4DB" width="618" /><img alt="" height="88" src="https://lh3.googleusercontent.com/CDIIOII7tQ9auzUFA-BTEOqG7qsfyjfj2M5S2HZmYMAoreE6U2uYbh-rw-ncniFktyhLiSmjx7QLNXpknOs66rtFoWotbLnJx_HUyvEm6fsTWTuTD3flLEpKEERs2UJn_9s86ScM0HNvqyXL" width="618" /><img alt="" height="88" src="https://lh5.googleusercontent.com/MAlddW2GWbiDZrUkC8yEO5Kq5aOo-xj-k_2dvyt126SeLXjU9X1BzGf-9EcNCkcQLE2nKq3yWB1FQUb1z7r4IBjRGOACaJA8mEW2BKdSGidwzvejO-AB7OsZz_frgqek924IhtZvl8HGgEcs" width="618" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sK1C0Un79wFiFVX7K-f4mZw/image?w=619&amp;h=88&amp;rev=1&amp;ac=1" style="height:88px; width:619px" /><img alt="" src="https://lh4.googleusercontent.com/yD1YRqX2unjD2eDN9d2idjE4PgkdGGjsXDJtp0beFuBXkbPgOlewL5kS2B-snPC31luCaUBCxvJfLA9wvmMqq_3vqYjawp-lEKIraRLCc1_1DpoD0sloClFJx0hJJoDxeIZATl-4bbxzeCUM" style="height:88px; width:618px" /><img alt="" src="https://lh4.googleusercontent.com/0sNc10zfooZzoY3mFqc9-j5YicTqZECfvTGjDd_e0oZ-CCJGj-baPF9zWuMgff8zJ1svdS8utWXFayxe3RDgd46W57dk9ceBCqmsNUg0IdqVuhQGMDCtib15syLnHhKyCfkfdpVUq1B83vMn" style="height:88px; width:618px" /><img alt="" src="https://lh6.googleusercontent.com/5Urde9PjPKu3EpCZXOfVLl4vx90HmRqaSVPg1pOPi140LQ-kaux755IjDbvCiet9bYAcoQVptDeYkSob_4r5E6lYhmfK2Iu948BvS9DMu0aRZdZH7O-Tb8x3vTFZUxa_nvxFK1hYj12CXg2N" style="height:88px; width:618px" /><img alt="" src="https://lh3.googleusercontent.com/zpFkCtDQv6XTs7-XdzySwzoo2SJWgizAIrmVUUMPUvw3wXGPJsq5k2s7iVFXCnqvVR471HcG136ET0ksnD1joyGdmeyEn6WnGWhMLuUQ6rgwWE0mZBB72kKx6qwHvgOzO2sC2EbV5P-JJn5r" style="height:88px; width:618px" /><img alt="" src="https://lh3.googleusercontent.com/opUht1VqmD_UWKBxH9s3cbDrR1Ncf9RCPCUNVMPbhWA8diVDhCuWX-txn7Q-0OQQEZ5O05k4oAj9m4bx0RGMQQ3cgbYesXReiYNiIE1t2zUTT3ft_xHRBBezJuQmf4sZmpkTK9o4uDTkJ4DB" style="height:88px; width:618px" /><img alt="" src="https://lh3.googleusercontent.com/CDIIOII7tQ9auzUFA-BTEOqG7qsfyjfj2M5S2HZmYMAoreE6U2uYbh-rw-ncniFktyhLiSmjx7QLNXpknOs66rtFoWotbLnJx_HUyvEm6fsTWTuTD3flLEpKEERs2UJn_9s86ScM0HNvqyXL" style="height:88px; width:618px" /><img alt="" src="https://lh5.googleusercontent.com/MAlddW2GWbiDZrUkC8yEO5Kq5aOo-xj-k_2dvyt126SeLXjU9X1BzGf-9EcNCkcQLE2nKq3yWB1FQUb1z7r4IBjRGOACaJA8mEW2BKdSGidwzvejO-AB7OsZz_frgqek924IhtZvl8HGgEcs" style="height:88px; width:618px" /><br />
 <br />
 <br />
 <br />
@@ -2058,10 +2046,10 @@ miniature : paysagebiodiversite-main.jpg
 <br />
 &nbsp;</p>
 
-<p><img alt="" height="87" src="https://docs.google.com/drawings/d/szibwE0AAKLyYMLuT7jJpXA/image?w=283&amp;h=87&amp;rev=1&amp;ac=1" width="283" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/szibwE0AAKLyYMLuT7jJpXA/image?w=283&amp;h=87&amp;rev=1&amp;ac=1" style="height:87px; width:283px" /></p>
 
 <p><br />
-<img alt="" height="904" src="https://docs.google.com/drawings/d/sdpqIiBm7yW3-fMrFk0cyFw/image?w=673&amp;h=904&amp;rev=1&amp;ac=1" width="673" /><br />
+<img alt="" src="https://docs.google.com/drawings/d/sdpqIiBm7yW3-fMrFk0cyFw/image?w=673&amp;h=904&amp;rev=1&amp;ac=1" style="height:904px; width:673px" /><br />
 <br />
 <br />
 <br />
@@ -2073,9 +2061,9 @@ miniature : paysagebiodiversite-main.jpg
 
 <p></p>
 
-<p><img alt="" height="759" src="https://docs.google.com/drawings/d/svm91iXg_Zf06Jb9jNt5LLQ/image?w=673&amp;h=759&amp;rev=1&amp;ac=1" width="673" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/svm91iXg_Zf06Jb9jNt5LLQ/image?w=673&amp;h=759&amp;rev=1&amp;ac=1" style="height:759px; width:673px" /></p>
 
-<p><img alt="" height="887" src="https://docs.google.com/drawings/d/sm0WNSFGVAL8fKj-9whYu9w/image?w=673&amp;h=887&amp;rev=1&amp;ac=1" width="673" /></p>
+<p><img alt="" src="https://docs.google.com/drawings/d/sm0WNSFGVAL8fKj-9whYu9w/image?w=673&amp;h=887&amp;rev=1&amp;ac=1" style="height:887px; width:673px" /></p>
 
 <p><br />
-<img alt="" height="887" src="https://docs.google.com/drawings/d/se3HEGQ9dQVzA37m8Qk19AQ/image?w=673&amp;h=887&amp;rev=1&amp;ac=1" width="673" /></p>
+<img alt="" src="https://docs.google.com/drawings/d/se3HEGQ9dQVzA37m8Qk19AQ/image?w=673&amp;h=887&amp;rev=1&amp;ac=1" style="height:887px; width:673px" /></p>
