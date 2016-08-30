@@ -18,10 +18,17 @@ miniature : paysagebiodiversite-main.jpg
 
 <p><br />
 <br />
-<br />
-<br />
-<br />
-<br />
+&nbsp;</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:50%">
+	<tbody>
+		<tr>
+			<td><img alt="google-earth-neufchateau.bmp" src="https://lh6.googleusercontent.com/CqHpD7nEjYegkLEvsjwUoVdNH7jeGDfD7SwpRP-I4mZyvDavZhKxfPcG0pCEZ9IPL5UVinNIa3rEj09WFQj-x-aWITpRgBXo1vW3C7IUa60yIxWsTbALUukxcbiFwygi_Ply64c" style="float:left; width:100%" /></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br />
 &nbsp;</p>
 
 <p><img alt="" src="https://docs.google.com/drawings/d/s3owbdORTSFeCeBnLcqgeVw/image?w=255&amp;h=209&amp;rev=1&amp;ac=1" style="height:209px; width:255px" /><img alt="" src="https://docs.google.com/drawings/d/soKyQCAjSMOs4ZTrexsqbQA/image?w=256&amp;h=209&amp;rev=1&amp;ac=1" style="height:209px; width:256px" /></p>
