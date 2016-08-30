@@ -12,8 +12,11 @@ miniature : paysagebiodiversite-main.jpg
 <p><br />
 <br />
 <br />
-<br />
-<img alt="" height="379" src="https://docs.google.com/drawings/d/s_9LLLZYVph7vCv3JouTGbg/image?w=645&amp;h=379&amp;rev=1&amp;ac=1" width="645" /><br />
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="" height="379" src="https://docs.google.com/drawings/d/s_9LLLZYVph7vCv3JouTGbg/image?w=645&amp;h=379&amp;rev=1&amp;ac=1" width="645" /></p>
+
+<p><br />
 <br />
 <br />
 <br />
