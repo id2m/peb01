@@ -6,6 +6,7 @@ last_modified : 30 Août 2016 22-29-10
 order : 99
 type : ["eolien"]
 miniature : paysagebiodiversite-main.jpg
+type_editor : ["CkEditor(Word)"]
 ---
 <p>&nbsp;</p>
 
