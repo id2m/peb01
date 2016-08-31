@@ -6,7 +6,7 @@ order : 98
 type : ["eolien"]
 miniature : frog-1472427087252.jpg
 last_modified : 29 Août 2016 02-23-54
-type_editor : ["SimpleMd"]
+type_editor : ["CkEditor(Word)"]
 ---
 <p><img alt="details flyer" src="https://drive.google.com/uc?export=view&amp;id=0B8fHSjalmbNEaWlSWHluOWc4ekE" style="float:left; height:301px; width:150px" />Sed eros mauris, aliquet ac feugiat sed, lobortis et erat. Nunc faucibus enim nibh, quis tempus sapien pulvinar vel. Aenean id imperdiet purus. Cras luctus egestas turpis eu pharetra.hfhfh<img alt="" src="https://drive.google.com/uc?export=view&amp;id=0B8fHSjalmbNEaWlSWHluOWc4ekE" style="float:right; height:271px; width:136px" /></p>
 
