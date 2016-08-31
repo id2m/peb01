@@ -45,6 +45,6 @@ miniature : frog-1472427087252.jpg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><img alt="" src="https://drive.google.com/uc?export=view&amp;id=0B5tGhUwjqeaCTnRJNkF2NTl5cGs" style="border-style:solid; border-width:10px; width:50%" /></p>
 
 <p>&nbsp;</p>
