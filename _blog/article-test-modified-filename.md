@@ -1,8 +1,8 @@
 ---
 title : article test modified filename
 date : 01 Septembre 2016
-description : hh
-order : 99
+description : ok
+order : 95
 type : ["eolien"]
 miniature : frog.jpg
 last_modified : 01 Septembre 2016 13-58-39
