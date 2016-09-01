@@ -1,7 +1,7 @@
 ---
 title : blog test - filename-modify
 date : 01 Septembre 2016
-description : ok
+description : ok!
 lire_plus : 
 order : 96
 miniature : CliffsByBjzaba.png
