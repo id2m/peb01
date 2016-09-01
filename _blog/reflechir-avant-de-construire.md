@@ -1,11 +1,9 @@
 ---
 title:  "Réflechir avant de construire"
 date:   2015-09-19 00:00:00
-type: information
 order: 2
-description: ""
+description:
 ---
-
 ### Les analyses montrent que les éoliennes ne remplacent pas le nucléaire et ne luttent pas contre le réchauffement climatique. Elles coûtent 3 milliards d'€/an au contribuable pour rien. Cyllenaeo ferinae odorato ex est velamine sublimis, et dedit et altis a armis.
 
 <!--fin-excerpt-->
