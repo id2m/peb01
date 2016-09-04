@@ -174,7 +174,7 @@ type_editor : ["CkEditor(Word)"]
 
 <p>Le budget se situe dans une fourchette allant de 2000 &agrave; 2500&euro;.</p>
 
-<p><img alt="" src="https://drive.google.com/uc?export=view&amp;id=0B5tGhUwjqeaCQWVIRHhsVTlvQTg" style="width:50%" /></p>
+<p>&nbsp;</p>
 
 <p>ETAT DES LIEUX</p>
 
