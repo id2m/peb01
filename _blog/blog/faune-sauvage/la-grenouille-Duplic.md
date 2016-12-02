@@ -11,7 +11,3 @@ type_editor : ["CkEditor(Word)"]
 <p>gdgd</p>
 
 <p>khkhkh</p>
-
-<p>&nbsp;</p>
-
-<p>dsdlklsklkd</p>
